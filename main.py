@@ -1,7 +1,7 @@
 from time import time
 
 from parsiranje import *
-from trie import *
+from Trie import *
 from ParsiranjeHTML import *
 from pretraga import *
 from graf import Graph

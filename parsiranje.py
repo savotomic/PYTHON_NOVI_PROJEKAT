@@ -1,6 +1,6 @@
 from ParsiranjeHTML import *
 from graf import *
-from trie import TrieNode, Trie
+from Trie import TrieNode, Trie
 
 def parsiraj(path, graf, trie1):        #na osnovu ove metode se izgradjuju graf i trie
     parser = Parser()                   #u nasem slucaju trie ce sadrzati objekte klase Cvor

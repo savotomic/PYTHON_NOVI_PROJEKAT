@@ -1,5 +1,5 @@
 from ParsiranjeHTML import *
-from trie import *
+from Trie import *
 from parsiranje import *
 from Set import *
 from rangiranje import *
